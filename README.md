@@ -1,2 +1,8 @@
-# Quiz-Game
-That's is My First Project with C Language .
+#include<stdio.h>
+#include<conio.h>
+int main() {
+    int n;
+    char ans,A,B,C,D;
+    printf("Hello and Welcome to Quiz_Mania");
+    
+}
